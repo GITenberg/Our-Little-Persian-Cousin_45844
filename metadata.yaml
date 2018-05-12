@@ -1,0 +1,32 @@
+_repo: Our-Little-Persian-Cousin_45844
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Horne, Diantha W.
+    gutenberg_agent_id: '7156'
+    url: http://www.gutenberg.org/2009/agents/7156
+covers:
+- cover_type: archival
+  image_path: 45844-h/images/ibackcover.jpg
+creator:
+  author:
+    agent_name: Shedd, E. Cutler (Ephraim Cutler)
+    alias: Shedd, Ephraim Cutler
+    gutenberg_agent_id: '43486'
+    url: http://www.gutenberg.org/2009/agents/43486
+description: ''
+gutenberg_issued: '2014-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45844'
+  lccn: 09019833
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcc 'PZ'
+- !lcsh 'Children -- Iran -- Juvenile literature'
+title: Our Little Persian Cousin
+url: http://www.gutenberg.org/ebooks/45844
